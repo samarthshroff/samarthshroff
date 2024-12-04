@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Samarth Shroff's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthshroff&show_icons=true&theme=dracula&count_private=true,contribs)](https://github.com/samarthshroff/github-readme-stats)
-
+[![Samarth Shroff's GitHub stats](https://github-readme-stats-nl07z398t-samarth-shroffs-projects.vercel.app/api?username=samarthshroff&show_icons=true&theme=dracula&count_private=true,contribs)](https://github.com/samarthshroff/github-readme-stats)
 <a href="https://profile-summary-for-github.com/user/samarthshroff" target="_blank">Profile chart</a>
 <!--
 **samarthshroff/samarthshroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
