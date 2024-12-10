@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- [![Samarth Shroff's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthshroff)](https://github.com/samarthshroff/github-readme-stats)-->
-[![Samarth Shroff's GitHub stats](https://github-readme-stats-git-master-samarth-shroffs-projects.vercel.app/api?username=samarthshroff&show_icons=true&theme=dracula)](https://github.com/samarthshroff/github-readme-stats)
+[![Samarth Shroff's GitHub stats](https://github-readme-stats-git-master-samarth-shroffs-projects.vercel.app/api?username=samarthshroff&show_icons=true&theme=dracula&rank_icon=true&ring_color=00c4ff&title_color=00c4ff&icon_color=00c4ff)](https://github.com/samarthshroff/github-readme-stats)
 
 <a href="https://profile-summary-for-github.com/user/samarthshroff" target="_blank">Profile chart</a>
 <!--
